@@ -1,0 +1,18 @@
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\bin\Debug\net6.0-windows\Caculator winform.exe
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\bin\Debug\net6.0-windows\Caculator winform.deps.json
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\bin\Debug\net6.0-windows\Caculator winform.runtimeconfig.json
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\bin\Debug\net6.0-windows\Caculator winform.dll
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\bin\Debug\net6.0-windows\Caculator winform.pdb
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator_winform.Form1.resources
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator_winform.Properties.Resources.resources
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.AssemblyInfo.cs
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.dll
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\refint\Caculator winform.dll
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.pdb
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\Caculator winform.genruntimeconfig.cache
+C:\Users\ROG\source\repos\Caculator winform\Caculator winform\obj\Debug\net6.0-windows\ref\Caculator winform.dll
